@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">homework2</string>
+    <string name="login_pin">Pin</string>
+    <string name="login_button">login</string>
+    <string name="balance_button">balance</string>
+    <string name="withdraw_button">withdraw</string>
+    <string name="deposit_button">deposit</string>
+    <string name="change_pin_button">changePin</string>
+    <string name="logout_button">logout</string>
+    <string name="balance_amount">100 $d</string>
+    <string name="dialog_enter_pin">Enter PIN</string>
+    <string name="withdraw_submit">Withdraw</string>
+    <string name="cancel_submit">Cancel</string>
+    <string name="deposit_submit">Deposit</string>
+    <string name="dialog_change_pin">Change PIN</string>
+    <string name="dialog_reset_pin">Reset PIN</string>
+    <string name="currentBalance">100</string>
+    <string name="amount">Enter amount</string>
+    <string name="reset_pin">Reset PIN</string>
+    <string name="tv_deposit">Deposit</string>
+    <string name="t_submit">Submit</string>
+    <string name="t_cancel">Cancel</string>
+    <string name="current_pin">Current PIN</string>
+    <string name="new_pin">New PIN</string>
+    <string name="confirm_new_pin">Confirm New PIN</string>
+</resources>
